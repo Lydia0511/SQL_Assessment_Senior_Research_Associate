@@ -1,4 +1,3 @@
-# SQL_Assessment_Senior_Research_Associate
 # Senior Research Associate SQL Assessment
 
 ## Objective
